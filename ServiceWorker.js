@@ -1,9 +1,9 @@
-const cacheName = "DefaultCompany-My project-1.0";
+const cacheName = "PW Innovations-PW Assembly Guide-1.0";
 const contentToCache = [
-    "Build/PWAssemblyGuide.loader.js",
-    "Build/PWAssemblyGuide.framework.js.br",
-    "Build/PWAssemblyGuide.data.br",
-    "Build/PWAssemblyGuide.wasm.br",
+    "Build/PW_Assembly.loader.js",
+    "Build/PW_Assembly.framework.js",
+    "Build/PW_Assembly.data",
+    "Build/PW_Assembly.wasm",
     "TemplateData/style.css"
 
 ];
